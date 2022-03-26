@@ -20,11 +20,11 @@ Here is a working live [demo](https://re-hash.herokuapp.com/) :
 ### Landing Page
 
 <img width="600px" src='src/1.png'>
+
+
+### Summary Page
+
 <img width="600px" src='src/2.png'>
-
-### Choose from different Categories
-
-<img width="600px" src='public/2.png'>
 
 ## Built with 
 
